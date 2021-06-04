@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "global",
+      "type": "com.scutsehm.openplatform.config.GlobalConfig",
+      "sourceType": "com.scutsehm.openplatform.config.GlobalConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "global.linux",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.scutsehm.openplatform.config.GlobalConfig"
+    },
+    {
+      "name": "global.o-s-name",
+      "type": "java.lang.String",
+      "sourceType": "com.scutsehm.openplatform.config.GlobalConfig"
+    },
+    {
+      "name": "global.windows",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.scutsehm.openplatform.config.GlobalConfig"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,17 @@
+global:
+  windows:
+    back_end_path: "D:\\Repository\\OpenPlatform\\OpenPlatformBackEnd"
+    train_model_path: "D:\\Repository\\OpenPlatform\\TrainModel"
+    process_model_path: "D:\\Repository\\OpenPlatform\\ProcessModel"
+    train_model_list: "D:\\Repository\\OpenPlatform\\TrainModel\\TrainModelList.txt"
+    process_model_list: "D:\\Repository\\OpenPlatform\\ProcessModel\\ProcessModelList.txt"
+    data_path: "D:\\Repository\\OpenPlatform\\Data"
+    user_path: "D:\\Repository\\OpenPlatform\\User"
+  linux:
+    back_end_path: "/home/hm/cheungilin/OpenPlatform/OpenPlatformBackEnd"
+    train_model_path: "/home/hm/cheungilin/OpenPlatform/TrainModel"
+    process_model_path: "/home/hm/cheungilin/OpenPlatform/ProcessModel"
+    train_model_list: "/home/hm/cheungilin/OpenPlatform/TrainModel/TrainModelList.txt"
+    process_model_list: "/home/hm/cheungilin/OpenPlatform/ProcessModel/ProcessModelList.txt"
+    data_path: "/home/hm/cheungilin/OpenPlatform/Data"
+    user_path: "/home/hm/cheungilin/OpenPlatform/User"
