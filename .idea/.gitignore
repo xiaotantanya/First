@@ -1,8 +1,42 @@
-# 默认忽略的文件
+*.class
+*.log
+*.yarn.lock
+# Package Files #
+*.jar
+*.war
+*.ear
+target/
+
+# idea
+.idea/
+*.iml
+
+*velocity.log*
+
+### STS ###
+.apt_generated
+.factorypath
+.springBeans
+
+### IntelliJ IDEA ###
+*.iml
+*.ipr
+*.iws
+.idea
+.classpath
+.project
+.settings/
+bin/
+
+#rebel
+*rebel.xml*
+
+
+# Default ignored files
 /shelf/
 /workspace.xml
-# 数据源本地存储已忽略文件
+# Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-# 基于编辑器的 HTTP 客户端请求
+# Editor-based HTTP Client requests
 /httpRequests/
