@@ -1,0 +1,42 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceRoot}",
+                "D:/newsoftware/MinGW/mingw64/include/**",
+                "D:/newsoftware/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                "D:/newsoftware/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+                "D:/newsoftware/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+                "D:/newsoftware/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                "D:/newsoftware/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                "D:/newsoftware/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "__GNUC__=6",
+                "__cdecl=__attribute__((__cdecl__))"
+            ],
+            "intelliSenseMode": "gcc-x86",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "${workspaceRoot}",
+                    "D:/newsoftware/MinGW/mingw64/include/**",
+                    "D:/newsoftware/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                    "D:/newsoftware/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+                    "D:/newsoftware/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+                    "D:/newsoftware/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                    "D:/newsoftware/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                    "D:/newsoftware/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+                ]
+            },
+            "compilerPath": "D:/newsoftware/Dev/Dev-Cpp/MinGW64/bin/gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
